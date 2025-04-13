@@ -36,6 +36,7 @@ The implementation is inspired by the official repository:
 
 ```python
 import tensorflow as tf
+from adan import Adan
 
 # Initialize the Adan optimizer
 optimizer = Adan(
